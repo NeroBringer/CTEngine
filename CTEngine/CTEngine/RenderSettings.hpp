@@ -1,7 +1,8 @@
 #ifndef CTENGINE_RENDERSETTINGS_HPP
 #define CTENGINE_RENDERSETTINGS_HPP
 #pragma once
-
+#include <vector>
+#include <ElementFormat.hpp>
 namespace CTEngine
 {
 	// 建立渲染窗口的设置
